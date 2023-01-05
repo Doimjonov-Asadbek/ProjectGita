@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+
+    <item
+        android:id="@+id/Accounts"
+        android:icon="@drawable/ic_account_balance"
+        android:title="Accounts"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/Cashback"
+        android:icon="@drawable/ic_gift"
+        android:title="Cashback"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/Settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
+        tools:ignore="HardcodedText" />
+
+</menu>
